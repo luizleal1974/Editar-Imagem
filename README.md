@@ -1,4 +1,4 @@
-# Edição de imagens
+# 1. Edição de imagens
 
 <p align="justify">No R, o arquivo <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Editar-Imagem/blob/main/Files/Imagem.R'><code>Imagem.R</code></a> (pacote <code><a target='_blank' rel='noopener noreferrer' href='https://cran.r-project.org/web/packages/magick/vignettes/intro.html'>magick</a></code>) fornece dois modos distintos de edição de imagens (Figura 1). No que tange a linguagem de programação Python, o arquivo <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Editar-Imagem/blob/main/Files/mirror.py'><code>mirror.py</code></a> permite "espelhar" uma imagem (Figura 1b). O arquivo <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Editar-Imagem/blob/main/Files/watermark.py'><code>watermark.py</code></a> permite inserir uma "Marca d'água" (texto) em uma imagem (Figura 1c).</p>
 
@@ -14,8 +14,9 @@ devtools::source_url(path)
 
 </br>
 
-# Remover background
+# 2. Remover <i>background</i>
 
+<p align="justify">No Python, o arquivo <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Editar-Imagem/blob/main/Files/Remover_background.py'><code>Remover_background.py</code></a> permite remover o <i>background</i> uma imagem (Figura 2). O output deste código está diponível no <a target='_blank' rel='noopener noreferrer' href='https://colab.research.google.com/drive/1NZuwI4ByQMWQ1V8oxFsxFypGr98Q_uOD?usp=sharing'><code>Google Colab</code></a>.</p>
 
 <p align="center"><img src="/Files/Figura_2.png" alt="Drawing"/></p>
 
