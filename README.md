@@ -20,6 +20,6 @@ devtools::source_url(path)
 
 <p align="center"><img src="/Files/Figura_2.png" alt="Drawing"/></p>
 
-<div align="center">Figura 2: (a) Imagem original; (b) Imagem sem background.</div>
+<div align="center">Figura 2: (a) Imagem original; (b) Imagem sem <i>background</i>i.</div>
 
 </br>
