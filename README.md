@@ -13,3 +13,12 @@ devtools::source_url(path)
 <div align="center">Figura 1: (a) Imagem original; (b) Imagem espelhada; (c) Imagem com Marca d'água.</div>
 
 </br>
+
+# Remover background
+
+
+<p align="center"><img src="/Files/Figura_2.png" alt="Drawing"/></p>
+
+<div align="center">Figura 1: (a) Imagem original; (b) Imagem sem background.</div>
+
+</br>
