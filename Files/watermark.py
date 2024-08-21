@@ -1,5 +1,6 @@
 from os import chdir
 from PIL import Image, ImageDraw, ImageFont
+from urllib.request import urlopen
 
 # Imagem
 chdir("F:\Statistics\Apostila\eBook\www\Imagem")                                                     # Local
