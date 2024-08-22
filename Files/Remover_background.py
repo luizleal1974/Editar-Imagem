@@ -9,4 +9,4 @@ foto = Image.open(urlopen('https://github.com/luizleal1974/Editar-Imagem/raw/mai
 foto_no_bg = remove(foto)
 
 # Salvar imagem 
-foto_no_bg.save('vader_no_bg.png')
+foto_no_bg.save('woman_model_no_bg.png')
