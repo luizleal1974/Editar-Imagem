@@ -14,6 +14,8 @@ devtools::source_url(path)
 
 </br>
 
+
+
 # 2. Remover <i>background</i>
 
 <p align="justify">No Python, o arquivo <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Editar-Imagem/blob/main/Files/Remover_background.py'><code>Remover_background.py</code></a> permite remover o <i>background</i> uma imagem (Figura 2). O <i>output</i> deste código de programação em Python está diponível no <a target='_blank' rel='noopener noreferrer' href='https://colab.research.google.com/drive/1NZuwI4ByQMWQ1V8oxFsxFypGr98Q_uOD?usp=sharing'><code>Google Colab</code></a>.</p>
@@ -23,3 +25,5 @@ devtools::source_url(path)
 <div align="center">Figura 2: (a) Imagem original; (b) Imagem sem <i>background</i>i.</div>
 
 </br>
+
+
