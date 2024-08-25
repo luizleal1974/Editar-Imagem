@@ -24,6 +24,18 @@ devtools::source_url(path)
 
 <div align="center">Figura 2: (a) Imagem original; (b) Imagem sem <i>background</i>i.</div>
 
+
+
+</br>
+
+
+
+# 3. Converter imagem para Excel
+
+<p align="justify"><a target='_blank' rel='noopener noreferrer' href='https://www.extracttable.com/'><code>ExtractTable</code></a></p>
+
+
+
 </br>
 
 
