@@ -32,7 +32,7 @@ devtools::source_url(path)
 
 # 3. Converter imagem para Excel
 
-<p align="justify"><a target='_blank' rel='noopener noreferrer' href='https://www.extracttable.com/'><code>ExtractTable</code></a></p>
+<p align="justify">&#x2022; <a target='_blank' rel='noopener noreferrer' href='https://www.extracttable.com/'><code>ExtractTable</code></a></p>
 
 
 
