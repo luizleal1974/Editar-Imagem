@@ -30,14 +30,4 @@ devtools::source_url(path)
 
 
 
-# 3. Converter imagem para Excel
-
-<p align="justify">Endereço eletrônico para converter <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Editar-Imagem/blob/main/Files/tabela.png'><code>tabela.png</code></a> em <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Editar-Imagem/blob/main/Files/tabela.xlsx'><code>tabela.xlsx</code></a>.</p>
-
-<p align="justify">&#x2022; <a target='_blank' rel='noopener noreferrer' href='https://www.extracttable.com/'><code>ExtractTable</code></a></p>
-
-
-
-</br>
-
 
